@@ -70,3 +70,5 @@ The app uses the following packages:
 - `flutter_timezone: ^1.0.7`
 
 Make sure to add these dependencies to your `pubspec.yaml` file before running the app.
+Also make sure to update your apis as some of them might be old and redundant
+
